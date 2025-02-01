@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/payments.clar"
 depends_on = []
 
+[contracts.reputation]
+path = "contracts/reputation.clar"
+depends_on = []
+
 [contracts.ride-management]
 path = "contracts/ride-management.clar"
 depends_on = []
